@@ -305,7 +305,7 @@ int main(int argc, char *argv[])
         conclusion();
 
 
-    cout << endl << endl << "Pressez une touche pour quitter...";
+    cout << endl << endl << "Press a key to quit...";
     getch(); //holds screen until a key is pressed
 
     return 0;
